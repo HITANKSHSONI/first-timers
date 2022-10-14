@@ -2,14 +2,14 @@ const data = [
   // ======================== <Your name> Profile STARTS ========================
   {
     id: 0,
-    name: "add your name",
-    branch: "add your branch",
-    introduction: "add your small introduction",
-    skills: ["add your skills", "skill1", "skill2"],
+    name: "HITANKSH SONI",
+    branch: "ICT",
+    introduction: "Hello I am hitanksh soni",
+    skills: [ "GD", "programming"],
     socialsHandles: {
-      github: "add your github handle",
-      twitter: "add your twitter handle",
-      linkedin: "add your linkedin handle",
+      github: "HITANKSHSONI",
+      twitter: "@HitankshS",
+      linkedin: "Hitanksh soni",
     },
   },
   // ======================== <Your name> Profile ENDS ==========================
